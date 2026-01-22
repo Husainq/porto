@@ -39,7 +39,7 @@ const Hero = () => {
                   Hi! I'm a
                   <span className='text-primary'> Web Developer </span>
                   and
-                  <span className='text-primary'> Android Developer</span>.
+                  <span clnpmassName='text-primary'> Android Developer</span>.
                 </h1>
                 <p className='mt-4 text-lg text-gray-600 dark:text-gray-400'>
                   Building digital experiences with precision and care.
