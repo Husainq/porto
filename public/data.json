@@ -1,0 +1,78 @@
+{
+  "HeroData": [
+    {
+      "imgSrc": "/images/banner/ALS_0070.jpg"
+    }
+  ],
+  "NavLinkData": [
+    {
+      "label": "Projects",
+      "href": "/#project"
+    },
+    {
+      "label": "Offers",
+      "href": "/#categories"
+    }
+  ],
+  "ProjectData": [
+    {
+      "coverImg": "/images/project/image 1.png",
+      "name": "Material Request Order App"
+    },
+    {
+      "coverImg": "/images/project/image.png",
+      "name": "Web Inventory System"
+    }
+  ],
+  "SpecializeData": [
+    {
+      "imgSrc": "/images/specialization/webdesign.svg",
+      "title": "Web Design",
+      "desc": "Modern, responsive websites built to engage users and convert leads."
+    },
+    {
+      "imgSrc": "/images/specialization/logodesign.svg",
+      "title": "Logo Design",
+      "desc": "Distinct, memorable logos crafted to define and elevate your brand."
+    },
+    {
+      "imgSrc": "/images/specialization/mobileapp.svg",
+      "title": "Mobile App Development",
+      "desc": "Custom iOS and Android apps with seamless flow and functionality."
+    },
+    {
+      "imgSrc": "/images/specialization/contentwrite.svg",
+      "title": "Content Writing",
+      "desc": "SEO-driven content designed to educate, engage, and boost visibility."
+    },
+    {
+      "imgSrc": "/images/specialization/seooptimize.svg",
+      "title": "SEO Optimization",
+      "desc": "Proven SEO strategies that increase rankings, traffic, and brand reach."
+    },
+    {
+      "imgSrc": "/images/specialization/digitalmarketing.svg",
+      "title": "Digital Marketing",
+      "desc": "Targeted digital campaigns to build awareness and grow your audience."
+    }
+  ],
+  "CategoryData": [
+    {
+      "imgSrc": "/images/category/webdev.webp",
+      "title": "Web Design"
+    },
+    {
+      "imgSrc": "/images/category/hire-developer.png",
+      "title": "Web Development"
+    },
+    {
+      "imgSrc": "/images/category/android_design.png",
+      "title": "Android App Design"
+    },
+    {
+      "imgSrc": "/images/category/android_dev.webp",
+      "title": "Android App Development"
+    }
+  ]
+}
+
