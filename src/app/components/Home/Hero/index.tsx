@@ -49,7 +49,7 @@ const Hero = () => {
 
             {/* Bagian Gambar (Ukuran Extra Small) */}
             <div className='lg:col-span-4 col-span-1 w-full flex justify-center lg:justify-end'>
-              <div className='relative w-full max-w-[250px] md:max-w-[300px]'> {/* Ukuran diperkecil lagi di sini */}
+              <div className='relative w-full max-w-[200px] md:max-w-[250px]'> {/* Ukuran diperkecil lagi di sini */}
                 {loading ? (
                   <HeroSkeleton />
                 ) : (
