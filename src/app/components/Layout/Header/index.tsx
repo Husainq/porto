@@ -169,7 +169,7 @@ const Header: React.FC = () => {
               onClick={() => {
                 setNavbarOpen(false)
               }}>
-              Contact Us
+              Contact
             </Link>
           </div>
         </nav>
