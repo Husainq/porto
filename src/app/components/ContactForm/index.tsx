@@ -158,7 +158,7 @@ const ContactForm = () => {
           </div>
           {showThanks && (
             <div className='text-white bg-primary rounded-full px-4 text-lg mb-4.5 mt-1 absolute flex items-center gap-2'>
-              Thank you for contacting us! We will get back to you soon.
+              Thank you for reaching out. I’ll get back to you as soon as possible.
               <div className='w-3 h-3 rounded-full animate-spin border-2 border-solid border-white border-t-transparent'></div>
             </div>
           )}
