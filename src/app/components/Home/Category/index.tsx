@@ -53,7 +53,8 @@ const Category = () => {
                         height={394}
                         className='w-full h-full object-cover rounded-lg'
                       />
-                      <div className='absolute inset-0 bg-gradient-to-b from-darklight/0 from-60% to-darklight/80 lg:translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg flex items-end'>
+                      <Link href='/' target='_blank'>
+                        <div className='absolute inset-0 bg-gradient-to-b from-darklight/0 from-60% to-darklight/80 lg:translate-y-full group-hover:translate-y-0 transition-transform duration-500 ease-in-out rounded-lg flex items-end'>
                           <div className='p-5'>
                             <div className='flex items-center gap-3'>
                               <Image
@@ -68,6 +69,7 @@ const Category = () => {
                             </div>
                           </div>
                         </div>
+                      </Link>
                     </div>
                   </div>
                 ))}

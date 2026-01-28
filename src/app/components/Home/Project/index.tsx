@@ -33,12 +33,12 @@ const Project = () => {
 
   const settings = {
     dots: true,
-    arrows: false, // Set ke true jika ingin tombol navigasi muncul
+    arrows: true, 
     infinite: true,
     slidesToShow: 4,
     slidesToScroll: 1,
-    autoplay: false, // Slider otomatis dimatikan
-    speed: 500,
+    autoplay: true, 
+    speed: 1000,
     cssEase: 'linear',
     responsive: [
       { breakpoint: 992, settings: { slidesToShow: 3 } },

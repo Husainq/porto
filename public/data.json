@@ -20,8 +20,20 @@
       "name": "Material Request Order App"
     },
     {
-      "coverImg": "/images/project/image.png",
-      "name": "Web Inventory System"
+      "coverImg": "/images/project/image1.png",
+      "name": "Inventory System"
+    },
+    {
+      "coverImg": "/images/project/a1.png",
+      "name": "Web Admin"
+    },
+    {
+      "coverImg": "/images/project/a2.png",
+      "name": "Payroll Website"
+    },
+    {
+      "coverImg": "/images/project/a3.png",
+      "name": "Attedance Employee App"
     }
   ],
   "SpecializeData": [
